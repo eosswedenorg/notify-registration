@@ -1,4 +1,4 @@
-# notify.se-registration
+# notify-registration
 Your Block Producer account can whitelist up to 3 other accounts to set up their own monitoring of the BP.
 Each user can provide their own BotID and/or ChatID, and have their own notifications set up. 
 
