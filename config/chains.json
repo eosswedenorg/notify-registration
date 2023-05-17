@@ -1,0 +1,12 @@
+{
+    "wax": {
+        "cleos": "/usr/opt/wax-leap/323wax01/bin/cleos",
+        "api": "https://api.waxsweden.org",
+        "contract": "notify.se"
+    },
+    "ultra": {
+        "cleos": "/usr/opt/eosio/2013-mv/bin/cleos",
+        "api": "https://api.ultra.eossweden.org",
+        "contract": "uosswedenorg"
+    }
+}

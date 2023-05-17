@@ -1,0 +1,12 @@
+{
+    "daily_hour": 8,
+    "notify_hourly": true,
+    "notify_daily": true,
+    "notify_weekly": true,
+    "producer_latency": true,
+    "producer_block_statistics": true,
+    "producer_block_statistics_extras": true,
+    "producer_block_statistics_limit_pct": 90,
+    "eosmechanics_cpu": true,
+    "eosmechanics_cpu_limit_us": 240
+}
